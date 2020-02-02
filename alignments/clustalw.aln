@@ -1,0 +1,68 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+3u2o_a                              -----------------------------------------------MAT
+6oc0_a                              ------------------------------------------------AT
+2wv8_a                              -------------------------------------------------T
+tr|A0A0J5PZ55|A0A0J5PZ55_ASPFM      MVANSTSLAWKSAGLRARAVPSLRCSHRSSVLHRLAAFQQHGAVRHASST
+                                                                                     *
+
+3u2o_a                              GDERFYAEHLMPTLQG----------------------------------
+6oc0_a                              GDERFYAEHLMPTLQG----------------------------------
+2wv8_a                              GDERFYAEHLMPTLQG----------------------------------
+tr|A0A0J5PZ55|A0A0J5PZ55_ASPFM      TSEAAEAVKEAPKKAGRGLKRTVYGTSLVLAALVGYVYATDTRASIHRYA
+                                     .*   * :  *.  *                                  
+
+3u2o_a                              --------LLDPESAHRLAVRFTS----LGLLPRAR-FQDSD-MLEVRVL
+6oc0_a                              --------LLDPESAHRLAVRFTS----LGLLPRAR-FQDSD-MLEVRVL
+2wv8_a                              --------LLDPESAHRLAVRFTS----LGLLPRAR-FQDSD-MLEVRVL
+tr|A0A0J5PZ55|A0A0J5PZ55_ASPFM      VVPLVRTLYPDAEEAHHIGVEALKTLYKYGLHPRERGNQDGDGVLATEVF
+                                              *.*.**::.*.  .     ** ** *  **.* :* ..*:
+
+3u2o_a                              GHKFRNPVGIAAGFDKHGEAVDGLYKMGFGFVEIGSVTPKPQEGNPRPRV
+6oc0_a                              GHKFRNPVGIAAGFDKHGEAVDGLYKMGFGFVEIGSVTPKPQEGNPRPRV
+2wv8_a                              GHKFRNPVGIAAGFDKHGEAVDGLYKMGFGFVEIGSVTPKPQEGNPRPRV
+tr|A0A0J5PZ55|A0A0J5PZ55_ASPFM      GYTLNNPIGISGGLDKHAEIPDPLFAIGPAIVEVGGTTPLPQEGNPRPRV
+                                    *:.:.**:**:.*:***.*  * *: :* .:**:*..** **********
+
+3u2o_a                              FRLPEDQAVINRYGFNSHGLSVVEHRLRARQQKQAKLT------------
+6oc0_a                              FRLPEDQAVINRYGFNSHGLSVVEHRLRARQQKQAKLT------------
+2wv8_a                              FRLPEDQAVINRYGFNSHGLSVVEHRLRARQQKQAKLT------------
+tr|A0A0J5PZ55|A0A0J5PZ55_ASPFM      FRLPSQKAMINRYGLNSLGADHMAAILERRVRDFAYANGFGLHDEAEQRV
+                                    ****.::*:*****:** * . :   *. * :. *  .            
+
+3u2o_a                              ---EDGLPLG---------VNLGKNKTSVD-----AAEDYAEGVRVLGPL
+6oc0_a                              ---EDGLPLG---------VNLGKNKTSVD-----AAEDYAEGVRVLGPL
+2wv8_a                              ---EDGLPLG---------VNLGKNKTSVD-----AAEDYAEGVRVLGPL
+tr|A0A0J5PZ55|A0A0J5PZ55_ASPFM      LDGEAGVPPGSLQPGRLLAVQIAKNKATPDSDIEAIKRDYVYCVDRLAKY
+                                       * *:* *         *::.***:: *       .**.  *  *.  
+
+3u2o_a                              ADYLVVNVSSPNTAGLRSLQGKAELRRLLTKVLQERDGLRRVHRPAVLVK
+6oc0_a                              ADYLVVNVSSPNTAGLRSLQGKAELRRLLTKVLQERDGLRRVHRPAVLVK
+2wv8_a                              ADYLVVNVSSPNTAGLRSLQGKAELRRLLTKVLQERDGLRRVHRPAVLVK
+tr|A0A0J5PZ55|A0A0J5PZ55_ASPFM      ADILVVNVSSPNTPGLRDLQATAPLTAILKAVVSAAKGVDRKTKPYVMVK
+                                    ** **********.***.**..* *  :*. *:.  .*: *  :* *:**
+
+3u2o_a                              IAPDLTSQDKED-IASVVKELGIDGLIVTNTTVSRPAGLQG---------
+6oc0_a                              IAPDLTSQDKED-IASVVKELGIDGLIVTNTTVSRPAGLQG---------
+2wv8_a                              IAPDLTSQDKED-IASVVKELGIDGLIVTNTTVSRPAGLQG---------
+tr|A0A0J5PZ55|A0A0J5PZ55_ASPFM      VSPDEDSDEQVSGICDAVWHSGVDGVIVGNTTNRRPAPLPHGFTLPPKEQ
+                                    ::**  *::: . *...* . *:**:** ***  *** *           
+
+3u2o_a                              ALRSETGGLSGKPLRDLSTQTIREMYALTQG-------------------
+6oc0_a                              ALRSETGGLSGKPLRDLSTQTIREMYALTQG-------------------
+2wv8_a                              ALRSETGGLSGKPLRDLSTQTIREMYALTQG-------------------
+tr|A0A0J5PZ55|A0A0J5PZ55_ASPFM      STLKETGGYSGPQLFDRTAALVARYRALLDAPPTPASDANETDQAKELAA
+                                    :  .**** **  * * ::  : .  ** :.                   
+
+3u2o_a                              -------------------------RVPIIGVGGVSSGQDALEKIRAGAS
+6oc0_a                              -------------------------RVPIIGVGGVSSGQDALEKIRAGAS
+2wv8_a                              -------------------------RVPIIGVGGVSSGQDALEKIRAGAS
+tr|A0A0J5PZ55|A0A0J5PZ55_ASPFM      AVTRAEPDVENVPAVEPPTPANRPARKVIFASGGITNGKQAQAVLDAGAS
+                                                             *  *:. **::.*::*   : ****
+
+3u2o_a                              LVQLYTALTFWGPPVVGKVKRELEALLKEQGFGGVTDAIGADHR-
+6oc0_a                              LVQLYTALTFWGPPVVGKVKRELEALLKEQGFGGVTDAIGADHR-
+2wv8_a                              LVQLYTALTFWGPPVVGKVKRELEALLKEQGFGGVTDAIGADHRR
+tr|A0A0J5PZ55|A0A0J5PZ55_ASPFM      VAMMYTAVTYGGIGTVTRVKQELREEKKNRQ--------------
+                                    :. :***:*: *  .* :**:**.   *::               
